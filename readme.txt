@@ -1,0 +1,1 @@
+This repository contains files related to the research project "Navigating the Transition to Net-Zero: The Role of Decarbonisation Assessment Tools in the Mining Industry". Nicholas Butterly, +61487086822, University of Western Australia, 21714914.
